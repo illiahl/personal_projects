@@ -1,9 +1,5 @@
 # List of personal projects:
 
-<br>
-
-<br>
-
 - ### Statistics and data analysis tasks:
     - Data analysis and statistics in Python: *data preprocessing, data visualation, finding estimators, finding empirical distribution function, testing hypothesis about distribution of sample, bulding confidence intervals for expected value and variance*.
     - Basket analysis: *finding frequent item sets*.
