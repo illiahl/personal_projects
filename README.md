@@ -3,7 +3,8 @@
 - ### Statistics and data analysis tasks:
     - Data analysis and statistics in Python: *data preprocessing, data visualation, finding estimators, finding empirical distribution function, testing hypothesis about distribution of sample, bulding confidence intervals for expected value and variance*.
     - Basket analysis: *finding frequent item sets*.
-    - Linear regression: *finding estimators, building model, measuring goodness of fit using coefficient of determination, analysis of variance*.
+    - Linear regression: *finding estimators, building model, interval estimation, measuring goodness of fit using coefficient of determination, analysis of variance, making predictions based on new data*.
+    - Nonlinear regression: *selecting model, finding estimators, interval estimation, measuring goodness of fit using coefficient of determination, analysis of variance, making predictions based on new data*.
 
 #
 
