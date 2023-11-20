@@ -2,15 +2,16 @@
 
 - ### Statistics and data analysis tasks:
     - Data analysis and statistics in Python: *data preprocessing, data visualation, finding estimators, finding empirical distribution function, testing hypothesis about distribution of sample, bulding confidence intervals for expected value and variance*.
-    - Basket analysis: *finding frequent item sets*.
-    - Linear regression: *finding estimators, building model, interval estimation, measuring goodness of fit using coefficient of determination, analysis of variance, making predictions based on new data*.
-    - Nonlinear regression: *selecting model, finding estimators, interval estimation, measuring goodness of fit using coefficient of determination, analysis of variance, making predictions based on new data*.
+    - Basket analysis in Python: *finding frequent item sets*.
+    - Linear regression in Excel: *finding estimators, building model, interval estimation, measuring goodness of fit using coefficient of determination, analysis of variance, making predictions based on new data*.
+    - Nonlinear regression in Python: *selecting model, finding estimators, interval estimation, measuring goodness of fit using coefficient of determination, analysis of variance, making predictions based on new data*.
 
 #
 
 - ### Machine learning tasks:
-   - Naive bayes classification model: *Quality test. Predicion. Training on subsets of training data. Buliding PR and ROC curves, decision boundaries. Comparing models based on distribution. Grid search*.
-   - Multilayer perceptron classification model: *Quality test. Prediction. Training on subsets of training data. Buliding PR and ROC curves, decision boundaries. Comparing models based on different parameters. Grid search*.
+   - Naive bayes classification model: *quality test; predicion; training on subsets of training data; buliding PR and ROC curves, decision boundaries; comparing models based on distribution; grid search*.
+   - Multilayer perceptron classification model: *quality test. prediction; training on subsets of training data; buliding PR and ROC curves, decision boundaries; comparing models based on different parameters; grid search*.
+   - Agglomerative clustering: *building model, quality test, visualisation, comparing models based on different parameters, measuring stability of the model*.
 
 # 
 
