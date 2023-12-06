@@ -2,6 +2,7 @@
 
 - ### Statistics and data analysis tasks:
     - Data analysis and statistics in Python: *data preprocessing, data visualation, finding estimators, finding empirical distribution function, testing hypothesis about distribution of sample, bulding confidence intervals for expected value and variance*.
+    - Interactive web dashboard in R: *data preprocessing, data visualisation, correlation tests; dashboard: density evaluation based on checked factors, comparison of two samples on given factor*.
     - Basket analysis in Python: *finding frequent item sets*.
     - Linear regression in Excel: *finding estimators, building model, interval estimation, measuring goodness of fit using coefficient of determination, analysis of variance, making predictions based on new data*.
     - Nonlinear regression in Python: *selecting model, finding estimators, interval estimation, measuring goodness of fit using coefficient of determination, analysis of variance, making predictions based on new data*.
