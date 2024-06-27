@@ -10,12 +10,17 @@
 #
 
 - ### Machine learning tasks:
-   - Naive bayes classification model: *quality test; predicion; training on subsets of training data; buliding PR and ROC curves, decision boundaries; comparing models based on distribution; grid search*.
+   - Naive bayes classification model: *quality test; prediction; training on subsets of training data; buliding PR and ROC curves, decision boundaries; comparing models based on distribution; grid search*.
    - Multilayer perceptron classification model: *quality test; prediction; training on subsets of training data; buliding PR and ROC curves, decision boundaries; comparing models based on different parameters; grid search*.
    - Agglomerative clustering: *building model, quality test, visualisation, comparing models based on different parameters, measuring stability of the model*.
    - Bagging classification ensemble: *building different ensebles based on decision trees and support vector machines; quality test; prediction; buliding decision boundaries; comparing ensembles based on different parameters; comparing ensemble and single model performance*.
 
 # 
+
+- ### Deep learning tasks:
+   - Deep convolutional neural networks for classification: *comparing different network architectures; quality test; prediction*.
+   - Transfer learning for classification: *comparing different base network architectures; quality test; prediction*.
+#
 
 - ### Tasks of numerical methods:
     - Solving differential equations numerically: *Eulers method, Runge-Kutta method, Milne method, Adams method*.
